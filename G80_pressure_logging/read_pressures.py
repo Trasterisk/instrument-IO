@@ -23,8 +23,12 @@ from bokeh.models import ColumnDataSource, DatetimeTickFormatter
 from bokeh.models.widgets import TextInput
 from bokeh.layouts import column, row
 
+<<<<<<< HEAD
 import GP350 as prep_gauge
 import GP350 as STM_gauge
+=======
+import pfeiffer_TPG261 as LL_gauge
+>>>>>>> 14afa4a33d4dfec03d24dccdfc9de5982018efc4
 import vacom_MVC3
 
 ### initialize gauges:
